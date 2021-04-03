@@ -1,0 +1,21 @@
+#main-div{
+    margin: 80px auto auto;
+    width: 50%;
+    max-width: 400px;
+    padding: 30px 10px 10px;
+    background-color: #ffc70b;
+    border-radius: 15px;
+}
+
+.number-group{
+    margin-bottom: 10px;
+}
+
+.btn-light{
+    min-width: 50px !important;
+    min-height: 50px !important;
+}
+
+.btn-light:hover{
+    background-color: lightslategray;
+}
