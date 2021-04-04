@@ -1,4 +1,4 @@
-# IMC Calculator
+# Simple Calculator
 
 This a simple Calculator Done using JS, HTML and CSS.
 
